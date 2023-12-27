@@ -31,7 +31,8 @@ Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.o
 
 
 ## 4.Data visualization
-Tableau is used (https://public.tableau.com/app/profile/qijia.huang/viz/MarketingCampaignAnalysis_17035489915940/1_1)
+Tableau is used. [Click](https://public.tableau.com/app/profile/qijia.huang/viz/MarketingCampaignAnalysis_17035489915940/1_1) here.
+<img width="683" alt="Marketing Campaign" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/97dbe8c2-e6e2-49bd-b956-9772c0575985">
 
 
 ## 5.Conclusion
