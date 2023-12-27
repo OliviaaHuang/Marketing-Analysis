@@ -7,10 +7,14 @@ This is precisely how analytics-enablement can help any marketing function to ma
 
 ## 2.Tools Used
 
-`Jupyter Notebook` is used as IDE.   
+`Jupyter Notebook` is used as IDE.  
+
 `Pandas` and `NumPy` are used for Data Manipulation & Pre-processing and Mathematical functions respectively.  
-`Sklearn` is used for building `Logistic Regression Model` to predict the purchase posibility of the customers.
+
+`Sklearn` is used for building `Logistic Regression Model` to predict the purchase posibility of the customers.  
+
 Used the `Tableau` to build dashboard for data visualization.  
+
 Uploaded the result to the `Azure`.
 
 
