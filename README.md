@@ -10,7 +10,6 @@ This is precisely how analytics-enablement can help any marketing function to ma
 The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx)  and [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx)).  
 
 [Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx) is dataset for 10% loyalty program participants. This is the file we would use for [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示")	 building.  
-
 [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
 
 ## 3.Data Modeling
