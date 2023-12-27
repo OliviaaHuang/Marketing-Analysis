@@ -13,10 +13,11 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 
 [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
 
-## 3.Data Cleaning
+## 3.Data Analysis
 
 This dataset contains 4940 records with 11 columns.  
-![Columns of Dataset](/Users/Olivia/Desktop/111 "Dataset")
+[Independent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示")
+
 
 
 
