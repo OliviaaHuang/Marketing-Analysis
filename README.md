@@ -28,6 +28,8 @@ Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.o
 
 
 ## 4.Data visualization
+Tableau is used (https://public.tableau.com/app/profile/qijia.huang/viz/MarketingCampaignAnalysis_17035489915940/1_1)
+
 
 ## 5.Conclusion
 
