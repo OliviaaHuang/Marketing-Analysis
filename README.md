@@ -5,7 +5,16 @@ Given the limited marketing budget, marketers can only select the most probably 
 
 This is precisely how analytics-enablement can help any marketing function to maximum business revenue and optimize their marketing funnel by smartly allocating their funds, at scale.
 
-## 2.Dataset
+## 2.Tools Used
+
+Jupyter Notebook is used as IDE.   
+Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.  
+Utilized the Logistic Regression Model to predict the purchase posibility of the customers.
+
+
+
+
+## 3.Dataset
 
 The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx)  and [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx)).  
 
@@ -14,7 +23,7 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 [Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx) is dataset for 10% loyalty program participants. This is the file we would use for [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示")	 building.  
 [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
 
-## 3.Data Modeling
+## 4.Data Modeling
 
 <img width="500" alt="Columns" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/d7cce933-26e7-4751-8599-5d40caaeaf70">
 
@@ -30,7 +39,7 @@ Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.o
 
 
 
-## 4.Data visualization
+## 5.Data visualization
 Tableau is used. [Click](https://public.tableau.com/app/profile/qijia.huang/viz/MarketingCampaignAnalysis_17035489915940/1_1) here.  
 
 <img width="683" height="600" alt="Marketing Campaign" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/97dbe8c2-e6e2-49bd-b956-9772c0575985">
@@ -42,7 +51,7 @@ I also uploaded the result of data visualization to the Azure.
 
 
 
-## 5.Conclusion
+## 6.Conclusion
 For profit maximisation, campany should run their marketing campaign on the top `30%`.  
 For marketing penetration, campany can choose the top `40%` to run their marketing campaign.
 
