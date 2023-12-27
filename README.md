@@ -13,7 +13,7 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 
 [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
 
-## 3.Data Analysis
+## 3.Data Modeling
 
 This dataset contains 22K observations.  
 
@@ -22,7 +22,7 @@ DemAge, DemClusterGroup, DemGender, DemReg, DemTVReg, LoyalClass, LoyalSpend, Lo
 [Dependent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): TargetBuy 
 ([Binary](https://en.wikipedia.org/wiki/Binary), 0 means no purchase, 1 means possible purchase)  
 
-Handling missing values: all `categorical variables` are imputed `mode` value, and the `continuous` ones are imputed with `mean` value
+Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.org/wiki/Confusion_matrix), Accuracy(81%)
 
 
 
