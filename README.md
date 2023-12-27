@@ -17,10 +17,10 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 
 This dataset contains 22K observations.  
 
-    [Independent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): DemAffl, 
-    DemAge, DemClusterGroup, DemGender, DemReg, DemTVReg, LoyalClass, LoyalSpend, LoyalTime
-    [dependent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): TargetBuy 
-    ([Binary]((https://en.wikipedia.org/wiki/Binary) "悬停显示") , 0 means no purchase, 1 means possible purchase.)
+[Independent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): DemAffl, 
+DemAge, DemClusterGroup, DemGender, DemReg, DemTVReg, LoyalClass, LoyalSpend, LoyalTime  
+[dependent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): TargetBuy 
+([Binary]((https://en.wikipedia.org/wiki/Binary) "悬停显示") , 0 means no purchase, 1 means possible purchase.)
 
 
 
