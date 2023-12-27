@@ -35,6 +35,12 @@ Tableau is used. [Click](https://public.tableau.com/app/profile/qijia.huang/viz/
 
 <img width="683" height="600" alt="Marketing Campaign" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/97dbe8c2-e6e2-49bd-b956-9772c0575985">
 
+I also uploaded the result of data visualization to the Azure.  
+
+<img width="1308" alt="Screenshot 2023-12-27 at 19 33 08" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/54989517-c295-4146-90a9-dea9c2fb1e3e">
+
+
+
 
 ## 5.Conclusion
 For profit maximisation, campany should run their marketing campaign on the top `30%`.  
