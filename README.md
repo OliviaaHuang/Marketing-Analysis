@@ -32,14 +32,8 @@ Tableau is used (https://public.tableau.com/app/profile/qijia.huang/viz/Marketin
 
 
 ## 5.Conclusion
-
-
-
-
-
-
-
-This project uses logistic regression and trains logistics regression model to predict buying probabilities for 90 percent dataset.
+For profit maximisation, campany should run their marketing campaign on the top `30%`.  
+For marketing penetration, campany can choose the top `40%` to run their marketing campaign.
 
 
 
