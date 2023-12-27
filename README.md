@@ -36,4 +36,5 @@ For profit maximisation, campany should run their marketing campaign on the top 
 For marketing penetration, campany can choose the top `40%` to run their marketing campaign.
 
 
+<img width="913" alt="Result" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/172b94ab-1176-46b8-a9b7-70ce01730df3">
 
