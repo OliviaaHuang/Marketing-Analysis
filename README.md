@@ -16,7 +16,6 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 
 <img width="500" alt="Columns" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/d7cce933-26e7-4751-8599-5d40caaeaf70">
 
-This dataset contains 22K observations.  
 
 [Independent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables#In_modeling_and_statistics "悬停显示"): DemAffl, 
 DemAge, DemClusterGroup, DemGender, DemReg, DemTVReg, LoyalClass, LoyalSpend, LoyalTime  
