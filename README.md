@@ -14,7 +14,7 @@ The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset
 
 ## 3.Data Modeling
 
-<img width="905" alt="Columns" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/d7cce933-26e7-4751-8599-5d40caaeaf70">
+<img width="500" alt="Columns" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/d7cce933-26e7-4751-8599-5d40caaeaf70">
 
 This dataset contains 22K observations.  
 
