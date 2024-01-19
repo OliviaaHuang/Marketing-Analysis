@@ -22,12 +22,12 @@ Uploaded the result to the `Azure`.
 
 ## 3.Dataset
 
-The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx)  and [Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx)).  
+The entire dataset is divided into two parts ([Dataset_10Percent.xlsx](./a1_Dataset_10Percent.xlsx)  and [Dataset_90Percent.xlsx](./a2_Dataset_90Percent.xlsx)).  
 
 <img width="600" alt="Process" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/29ede503-8562-4096-bcc8-c732fe4d5486">
 
-[Dataset_10Percent.xlsx](./Dataset_10Percent.xlsx) is dataset for 10% loyalty program participants. This is the file we would use for [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示")	 building.  
-[Dataset_90Percent.xlsx](./Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
+[Dataset_10Percent.xlsx](./a1_Dataset_10Percent.xlsx) is dataset for 10% loyalty program participants. This is the file we would use for [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示")	 building.  
+[Dataset_90Percent.xlsx](./a2_Dataset_90Percent.xlsx) is dataset for marketer to make market plans by using [Logistic Regression Model](https://en.wikipedia.org/wiki/Logistic_regression "悬停显示").  
 
 ## 4.Data Modeling
 
