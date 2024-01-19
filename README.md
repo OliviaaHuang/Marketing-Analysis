@@ -48,7 +48,8 @@ Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.o
 ## 5.Data visualization
 Tableau is used. [Click](https://public.tableau.com/app/profile/qijia.huang/viz/MarketingCampaignAnalysis_17035489915940/1_1) here.  
 
-<img width="683" height="600" alt="Marketing Campaign" src="https://github.com/OliviaaHuang/Protfolio-Machine-Learning/assets/152938995/97dbe8c2-e6e2-49bd-b956-9772c0575985">
+<img width="1283" alt="截屏2024-01-19 23 51 35" src="https://github.com/OliviaaHuang/Marketing-Analysis/assets/152938995/f584ac8d-d04e-4155-b0a7-1b87f14776f6">
+
 
 I also uploaded the result of data visualization to the Azure.  
 
