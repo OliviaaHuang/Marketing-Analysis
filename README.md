@@ -7,7 +7,7 @@ This is precisely how analytics-enablement can help any marketing function to ma
 
 ## 2.Tools Used
 
-`Jupyter Notebook` is used as IDE.  
+`Pycharm` is used as IDE.  
 
 `Pandas` and `NumPy` are used for Data Manipulation & Pre-processing and Mathematical functions respectively.  
 
