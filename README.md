@@ -48,7 +48,8 @@ Checking the performance of the model: [Confusion Matrix](https://en.wikipedia.o
 ## 5.Data visualization
 Tableau is used.   
 
-<img width="650" alt="截屏2024-02-02 16 59 12" src="https://github.com/OliviaaHuang/Marketing-Analysis/assets/152938995/45a98de7-a030-4978-89e0-9e854eb9816f">
+<img width="641" alt="截屏2024-02-02 17 02 50" src="https://github.com/OliviaaHuang/Marketing-Analysis/assets/152938995/18df087b-6ffa-41c7-8f33-518ff6a260f9">
+
 
 
 
